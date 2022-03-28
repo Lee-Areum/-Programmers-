@@ -142,11 +142,14 @@
     <ClCompile Include="124나라의 숫자.cpp" />
     <ClCompile Include="1_3진법뒤집기.cpp" />
     <ClCompile Include="1_실패율.cpp" />
+    <ClCompile Include="1_예산.cpp" />
     <ClCompile Include="2_거리두기 확인하기.cpp" />
     <ClCompile Include="2_괄호 변환.cpp" />
     <ClCompile Include="2_뉴스 클러스터링.cpp" />
     <ClCompile Include="2_메뉴 리뉴얼.cpp" />
     <ClCompile Include="2_수식 최대화_2.cpp" />
+    <ClCompile Include="3_리틀 프렌즈 사천성.cpp" />
+    <ClCompile Include="3_브라이언의 고민.cpp" />
     <ClCompile Include="내적.cpp" />
     <ClCompile Include="단체사진 찍기.cpp" />
     <ClCompile Include="멀쩡한 사각형.cpp" />

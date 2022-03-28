@@ -93,5 +93,14 @@
     <ClCompile Include="튜플.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3_브라이언의 고민.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3_리틀 프렌즈 사천성.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1_예산.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
