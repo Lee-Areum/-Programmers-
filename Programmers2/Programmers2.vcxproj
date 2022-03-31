@@ -140,19 +140,30 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="124나라의 숫자.cpp" />
+    <ClCompile Include="1_2016년.cpp" />
     <ClCompile Include="1_3진법뒤집기.cpp" />
+    <ClCompile Include="1_두 개 뽑아서 더하기.cpp" />
     <ClCompile Include="1_실패율.cpp" />
     <ClCompile Include="1_예산.cpp" />
     <ClCompile Include="2_거리두기 확인하기.cpp" />
+    <ClCompile Include="2_게임 맵 최단거리.cpp" />
     <ClCompile Include="2_괄호 변환.cpp" />
     <ClCompile Include="2_뉴스 클러스터링.cpp" />
     <ClCompile Include="2_메뉴 리뉴얼.cpp" />
     <ClCompile Include="2_수식 최대화_2.cpp" />
     <ClCompile Include="3_리틀 프렌즈 사천성.cpp" />
     <ClCompile Include="3_브라이언의 고민.cpp" />
+    <ClCompile Include="가운데 글자 가져오기.cpp" />
+    <ClCompile Include="같은 숫자는 싫어.cpp" />
+    <ClCompile Include="나누어 떨어지는 숫자배열.cpp" />
+    <ClCompile Include="나머지가 1이 되는 수 찾기.cpp" />
     <ClCompile Include="내적.cpp" />
+    <ClCompile Include="다트 게임.cpp" />
     <ClCompile Include="단체사진 찍기.cpp" />
     <ClCompile Include="멀쩡한 사각형.cpp" />
+    <ClCompile Include="2_빛의 경로 사이클.cpp" />
+    <ClCompile Include="부족한 금액 계산하기.cpp" />
+    <ClCompile Include="비밀지도.cpp" />
     <ClCompile Include="소수 만들기.cpp" />
     <ClCompile Include="2_수식 최대화.cpp" />
     <ClCompile Include="숫자 문자열과 영단어.cpp" />
@@ -161,6 +172,7 @@
     <ClCompile Include="없는 숫자 더하기.cpp" />
     <ClCompile Include="음양 더하기.cpp" />
     <ClCompile Include="짝지어 제거하기.cpp" />
+    <ClCompile Include="최소직사각형.cpp" />
     <ClCompile Include="추석 트래픽.cpp" />
     <ClCompile Include="카카오 프렌즈 컬러링북.cpp" />
     <ClCompile Include="크레인 인형뽑기 게임.cpp" />
