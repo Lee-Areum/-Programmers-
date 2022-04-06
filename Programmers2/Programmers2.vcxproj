@@ -153,6 +153,7 @@
     <ClCompile Include="2_수식 최대화_2.cpp" />
     <ClCompile Include="3_리틀 프렌즈 사천성.cpp" />
     <ClCompile Include="3_브라이언의 고민.cpp" />
+    <ClCompile Include="x만큼 간격이 있는 n개의 숫자.cpp" />
     <ClCompile Include="가운데 글자 가져오기.cpp" />
     <ClCompile Include="같은 숫자는 싫어.cpp" />
     <ClCompile Include="나누어 떨어지는 숫자배열.cpp" />
@@ -190,6 +191,7 @@
     <ClCompile Include="점수 내림차순으로 배치하기.cpp" />
     <ClCompile Include="정수 제곱근 판별.cpp" />
     <ClCompile Include="제일 작은 수 제거하기.cpp" />
+    <ClCompile Include="직사각형 별찍기.cpp" />
     <ClCompile Include="짝수와 홀수.cpp" />
     <ClCompile Include="짝지어 제거하기.cpp" />
     <ClCompile Include="최대공약수.cpp" />
@@ -200,8 +202,12 @@
     <ClCompile Include="크레인 인형뽑기 게임.cpp" />
     <ClCompile Include="키패드 누르기.cpp" />
     <ClCompile Include="튜플.cpp" />
+    <ClCompile Include="평균 구하기.cpp" />
     <ClCompile Include="포켓몬.cpp" />
     <ClCompile Include="2_행렬 테두리 회전하기.cpp" />
+    <ClCompile Include="핸드폰 번호 가리기.cpp" />
+    <ClCompile Include="행렬의 덧셈.cpp" />
+    <ClCompile Include="히샤드 수.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
