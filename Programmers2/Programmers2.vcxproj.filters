@@ -237,5 +237,8 @@
     <ClCompile Include="히샤드 수.cpp">
       <Filter>소스 파일\levle 1</Filter>
     </ClCompile>
+    <ClCompile Include="후보키.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

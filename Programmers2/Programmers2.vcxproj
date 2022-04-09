@@ -207,6 +207,7 @@
     <ClCompile Include="2_행렬 테두리 회전하기.cpp" />
     <ClCompile Include="핸드폰 번호 가리기.cpp" />
     <ClCompile Include="행렬의 덧셈.cpp" />
+    <ClCompile Include="후보키.cpp" />
     <ClCompile Include="히샤드 수.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
