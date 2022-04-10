@@ -238,7 +238,13 @@
       <Filter>소스 파일\levle 1</Filter>
     </ClCompile>
     <ClCompile Include="후보키.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="영어 끝말잇기.cpp">
+      <Filter>소스 파일\level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="예상 대진표.cpp">
+      <Filter>소스 파일\level 2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -184,6 +184,8 @@
     <ClCompile Include="1_약수의 개수와 덧셈.cpp" />
     <ClCompile Include="약수의 합.cpp" />
     <ClCompile Include="없는 숫자 더하기.cpp" />
+    <ClCompile Include="영어 끝말잇기.cpp" />
+    <ClCompile Include="예상 대진표.cpp" />
     <ClCompile Include="음양 더하기.cpp" />
     <ClCompile Include="이상한 문자 만들기.cpp" />
     <ClCompile Include="자리수 더하기.cpp" />
