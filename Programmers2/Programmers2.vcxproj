@@ -163,6 +163,7 @@
     <ClCompile Include="나누어 떨어지는 숫자배열.cpp" />
     <ClCompile Include="나머지가 1이 되는 수 찾기.cpp" />
     <ClCompile Include="내적.cpp" />
+    <ClCompile Include="올바른 괄호.cpp" />
     <ClCompile Include="다트 게임.cpp" />
     <ClCompile Include="단체사진 찍기.cpp" />
     <ClCompile Include="두 정수 사이의 합.cpp" />
@@ -173,6 +174,7 @@
     <ClCompile Include="문자열 내림차순으로 배치하기.cpp" />
     <ClCompile Include="문자열 다루기 기본.cpp" />
     <ClCompile Include="문자열을 정수로 바꾸기.cpp" />
+    <ClCompile Include="방문 길이.cpp" />
     <ClCompile Include="부족한 금액 계산하기.cpp" />
     <ClCompile Include="비밀지도.cpp" />
     <ClCompile Include="삼각 달팽이.cpp" />

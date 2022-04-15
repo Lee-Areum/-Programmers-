@@ -273,5 +273,11 @@
     <ClCompile Include="2개 이하로 다른 비트.cpp">
       <Filter>소스 파일\level 2</Filter>
     </ClCompile>
+    <ClCompile Include="올바른 괄호.cpp">
+      <Filter>소스 파일\level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="방문 길이.cpp">
+      <Filter>소스 파일\level 2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
