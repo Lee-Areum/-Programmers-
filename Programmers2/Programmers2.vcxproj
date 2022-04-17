@@ -212,6 +212,7 @@
     <ClCompile Include="추석 트래픽.cpp" />
     <ClCompile Include="카카오 프렌즈 컬러링북.cpp" />
     <ClCompile Include="콜라츠 추측.cpp" />
+    <ClCompile Include="쿼드압축 후 개수 세기.cpp" />
     <ClCompile Include="크레인 인형뽑기 게임.cpp" />
     <ClCompile Include="키패드 누르기.cpp" />
     <ClCompile Include="튜플.cpp" />
