@@ -283,6 +283,9 @@
       <Filter>소스 파일\level 2</Filter>
     </ClCompile>
     <ClCompile Include="쿼드압축 후 개수 세기.cpp">
+      <Filter>소스 파일\level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="최댓값과 최솟값.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
