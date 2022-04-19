@@ -210,6 +210,7 @@
     <ClCompile Include="최대공약수.cpp" />
     <ClCompile Include="최댓값과 최솟값.cpp" />
     <ClCompile Include="최소직사각형.cpp" />
+    <ClCompile Include="최솟값 만들기.cpp" />
     <ClCompile Include="추석 트래픽.cpp" />
     <ClCompile Include="카카오 프렌즈 컬러링북.cpp" />
     <ClCompile Include="콜라츠 추측.cpp" />

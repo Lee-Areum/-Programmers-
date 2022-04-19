@@ -286,7 +286,10 @@
       <Filter>소스 파일\level 2</Filter>
     </ClCompile>
     <ClCompile Include="최댓값과 최솟값.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="최솟값 만들기.cpp">
+      <Filter>소스 파일\level 2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
