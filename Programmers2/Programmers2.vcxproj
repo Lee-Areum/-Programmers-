@@ -218,6 +218,7 @@
     <ClCompile Include="크레인 인형뽑기 게임.cpp" />
     <ClCompile Include="키패드 누르기.cpp" />
     <ClCompile Include="튜플.cpp" />
+    <ClCompile Include="파보나치 수.cpp" />
     <ClCompile Include="평균 구하기.cpp" />
     <ClCompile Include="포켓몬.cpp" />
     <ClCompile Include="2_행렬 테두리 회전하기.cpp" />
