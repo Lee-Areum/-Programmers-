@@ -167,6 +167,7 @@
     <ClCompile Include="나머지가 1이 되는 수 찾기.cpp" />
     <ClCompile Include="내적.cpp" />
     <ClCompile Include="땅따먹기.cpp" />
+    <ClCompile Include="숫자의 표현.cpp" />
     <ClCompile Include="양궁대회.cpp" />
     <ClCompile Include="올바른 괄호.cpp" />
     <ClCompile Include="다트 게임.cpp" />
