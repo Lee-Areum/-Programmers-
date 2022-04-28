@@ -315,5 +315,8 @@
     <ClCompile Include="숫자의 표현.cpp">
       <Filter>소스 파일\level 2</Filter>
     </ClCompile>
+    <ClCompile Include="[3차] 압축.cpp">
+      <Filter>소스 파일\level 2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
