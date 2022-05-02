@@ -325,7 +325,13 @@
       <Filter>소스 파일\level 2</Filter>
     </ClCompile>
     <ClCompile Include="다음 큰 숫자.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="n^2배열 자르기.cpp">
+      <Filter>소스 파일\level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="[3차] n진수게임.cpp">
+      <Filter>소스 파일\level 2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

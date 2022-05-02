@@ -156,10 +156,12 @@
     <ClCompile Include="3_브라이언의 고민.cpp" />
     <ClCompile Include="JadenCase 문자열 만들기.cpp" />
     <ClCompile Include="k진수에서 소수 개수 구하기.cpp" />
+    <ClCompile Include="n^2배열 자르기.cpp" />
     <ClCompile Include="N개의 최소공배수.cpp" />
     <ClCompile Include="x만큼 간격이 있는 n개의 숫자.cpp" />
     <ClCompile Include="[1차]캐시.cpp" />
     <ClCompile Include="[3차] 압축.cpp" />
+    <ClCompile Include="[3차] n진수게임.cpp" />
     <ClCompile Include="가운데 글자 가져오기.cpp" />
     <ClCompile Include="가장 큰 정사각형 찾기.cpp" />
     <ClCompile Include="같은 숫자는 싫어.cpp" />
