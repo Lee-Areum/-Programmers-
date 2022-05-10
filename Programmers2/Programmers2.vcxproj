@@ -170,6 +170,7 @@
     <ClCompile Include="나누어 떨어지는 숫자배열.cpp" />
     <ClCompile Include="나머지가 1이 되는 수 찾기.cpp" />
     <ClCompile Include="내적.cpp" />
+    <ClCompile Include="다리를 지나는 트럭.cpp" />
     <ClCompile Include="다음 큰 숫자.cpp" />
     <ClCompile Include="땅따먹기.cpp" />
     <ClCompile Include="배달.cpp" />
