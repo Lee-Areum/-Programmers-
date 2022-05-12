@@ -166,6 +166,7 @@
     <ClCompile Include="가운데 글자 가져오기.cpp" />
     <ClCompile Include="가장 큰 정사각형 찾기.cpp" />
     <ClCompile Include="같은 숫자는 싫어.cpp" />
+    <ClCompile Include="게임맵최다거리.cpp" />
     <ClCompile Include="괄호 회전하기.cpp" />
     <ClCompile Include="나누어 떨어지는 숫자배열.cpp" />
     <ClCompile Include="나머지가 1이 되는 수 찾기.cpp" />

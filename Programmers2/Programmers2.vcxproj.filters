@@ -342,5 +342,8 @@
     <ClCompile Include="순위 검색.cpp">
       <Filter>소스 파일\level 2</Filter>
     </ClCompile>
+    <ClCompile Include="게임맵최다거리.cpp">
+      <Filter>소스 파일\level 2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
