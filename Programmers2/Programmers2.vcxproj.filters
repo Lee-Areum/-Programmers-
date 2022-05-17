@@ -351,5 +351,11 @@
     <ClCompile Include="방금그곡.cpp">
       <Filter>소스 파일\level 2</Filter>
     </ClCompile>
+    <ClCompile Include="교점에 별 만들기.cpp">
+      <Filter>소스 파일\level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="전력망을 둘로 나누기.cpp">
+      <Filter>소스 파일\level 2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
