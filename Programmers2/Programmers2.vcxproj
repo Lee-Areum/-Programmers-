@@ -178,6 +178,7 @@
     <ClCompile Include="모음사전.cpp" />
     <ClCompile Include="방금그곡.cpp" />
     <ClCompile Include="배달.cpp" />
+    <ClCompile Include="빛의경로사이클.cpp" />
     <ClCompile Include="순위 검색.cpp" />
     <ClCompile Include="숫자의 표현.cpp" />
     <ClCompile Include="양궁대회.cpp" />
