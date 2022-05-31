@@ -360,5 +360,8 @@
     <ClCompile Include="빛의경로사이클.cpp">
       <Filter>소스 파일\level 2</Filter>
     </ClCompile>
+    <ClCompile Include="베스트앨범.cpp">
+      <Filter>소스 파일\level 3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
