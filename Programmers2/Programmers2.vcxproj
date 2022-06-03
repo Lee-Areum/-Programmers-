@@ -227,6 +227,7 @@
     <ClCompile Include="제일 작은 수 제거하기.cpp" />
     <ClCompile Include="주차요금계산.cpp" />
     <ClCompile Include="직사각형 별찍기.cpp" />
+    <ClCompile Include="징검다리 건너기.cpp" />
     <ClCompile Include="짝수와 홀수.cpp" />
     <ClCompile Include="짝지어 제거하기.cpp" />
     <ClCompile Include="최대공약수.cpp" />
