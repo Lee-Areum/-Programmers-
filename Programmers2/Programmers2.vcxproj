@@ -180,6 +180,7 @@
     <ClCompile Include="방금그곡.cpp" />
     <ClCompile Include="배달.cpp" />
     <ClCompile Include="베스트앨범.cpp" />
+    <ClCompile Include="불량사업자.cpp" />
     <ClCompile Include="빛의경로사이클.cpp" />
     <ClCompile Include="순위 검색.cpp" />
     <ClCompile Include="숫자의 표현.cpp" />
@@ -228,6 +229,7 @@
     <ClCompile Include="주차요금계산.cpp" />
     <ClCompile Include="직사각형 별찍기.cpp" />
     <ClCompile Include="징검다리 건너기.cpp" />
+    <ClCompile Include="징검다리.cpp" />
     <ClCompile Include="짝수와 홀수.cpp" />
     <ClCompile Include="짝지어 제거하기.cpp" />
     <ClCompile Include="최대공약수.cpp" />

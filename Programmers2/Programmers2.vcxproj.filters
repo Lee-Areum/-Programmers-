@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\level 1\소수찾기">
       <UniqueIdentifier>{d531fbee-906f-4414-8cf4-20bd0f2ab8a1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\level4">
+      <UniqueIdentifier>{f23e3b56-cbd1-4ab4-af88-709c89ba430d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1_3진법뒤집기.cpp">
@@ -368,6 +371,12 @@
     </ClCompile>
     <ClCompile Include="징검다리 건너기.cpp">
       <Filter>소스 파일\level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="불량사업자.cpp">
+      <Filter>소스 파일\level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="징검다리.cpp">
+      <Filter>소스 파일\level4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
