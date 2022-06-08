@@ -154,6 +154,7 @@
     <ClCompile Include="2개 이하로 다른 비트.cpp" />
     <ClCompile Include="3_리틀 프렌즈 사천성.cpp" />
     <ClCompile Include="3_브라이언의 고민.cpp" />
+    <ClCompile Include="42861) 섬 연걸하기.cpp" />
     <ClCompile Include="JadenCase 문자열 만들기.cpp" />
     <ClCompile Include="k진수에서 소수 개수 구하기.cpp" />
     <ClCompile Include="n^2배열 자르기.cpp" />
