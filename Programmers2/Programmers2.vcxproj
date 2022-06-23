@@ -187,6 +187,7 @@
     <ClCompile Include="순위 검색.cpp" />
     <ClCompile Include="숫자의 표현.cpp" />
     <ClCompile Include="양궁대회.cpp" />
+    <ClCompile Include="오픈채팅방.cpp" />
     <ClCompile Include="올바른 괄호.cpp" />
     <ClCompile Include="다트 게임.cpp" />
     <ClCompile Include="단체사진 찍기.cpp" />
