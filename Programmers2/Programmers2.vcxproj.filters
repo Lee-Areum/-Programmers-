@@ -387,5 +387,8 @@
     <ClCompile Include="오픈채팅방.cpp">
       <Filter>소스 파일\level 2</Filter>
     </ClCompile>
+    <ClCompile Include="단체사진.cpp">
+      <Filter>소스 파일\level 2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

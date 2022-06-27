@@ -176,6 +176,7 @@
     <ClCompile Include="내적.cpp" />
     <ClCompile Include="다리를 지나는 트럭.cpp" />
     <ClCompile Include="다음 큰 숫자.cpp" />
+    <ClCompile Include="단체사진.cpp" />
     <ClCompile Include="땅따먹기.cpp" />
     <ClCompile Include="모음사전.cpp" />
     <ClCompile Include="방금그곡.cpp" />
